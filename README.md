@@ -4,7 +4,7 @@ Locuscharsheet.html
 Locuscharsheet.css
 LocusOfficial.json
 SheetPreview.png
-This was written by Steph Williamson for Cobblepath Games Ltd, but is free for use by anyone for any reason.
+This was written by Steph Williamson for Cobblepath Games Ltd, but is free for use by anyone for any reason. 
 
 ## Tabs
 The first tab contains basic character information such as name, Haunt, Virtue.  It also contains macros which will roll the Outcome Checks, input your Attribute values into the fields. When rolling use the Easy, Medium or Hard buttons next to the Attribute you need to generate outcomes against. 
@@ -30,3 +30,6 @@ We recommend the following settings:
 - GMs can also see Fronts of cards
 
 Otherwise, operation and use of this feature will work the same as it would around a table.  Players should manually draw and discard cards as appropriate.  
+
+## Monsters
+Due to the set up of Roll20 we are unable at present to have Monster cards so the Director will still need to have notes on these or physical cards outside of the app. We will investigate options for including these in the future. 
